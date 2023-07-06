@@ -1,3 +1,3 @@
 # Go Web Programming
 这里是Go Web编程代码库  
-学习地址：https://github.com/sausheong/gwp
+所有的练习原码来源于：https://github.com/sausheong/gwp
