@@ -6,7 +6,7 @@
 
 一些差异包括:
 
-* 这个版本的ChitChat是可配置的' config。json的文件
+* 这个版本的ChitChat是可配置的' config.json的文件
 * 此版本能够记录到' chitchat.log '文件
 * 这段代码中有测试文件
 * 所有结构体都是完全充实的(在书的章节中，它们只是隐含的)
